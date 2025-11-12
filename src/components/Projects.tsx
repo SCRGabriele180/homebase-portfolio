@@ -6,22 +6,22 @@ import { ExternalLink, Github } from "lucide-react";
 const Projects = () => {
   const projects = [
     {
-      title: "E-Commerce Platform",
-      description: "Piattaforma e-commerce completa con gestione prodotti, carrello e pagamenti",
-      tags: ["React", "TypeScript", "Tailwind"],
-      image: "https://images.unsplash.com/photo-1557821552-17105176677c?w=800&h=600&fit=crop",
-    },
-    {
-      title: "Task Manager App",
-      description: "Applicazione per la gestione di progetti e task con interfaccia intuitiva",
-      tags: ["Next.js", "Firebase", "UI/UX"],
-      image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&h=600&fit=crop",
-    },
-    {
-      title: "Portfolio Website",
-      description: "Sito portfolio moderno e responsive per un cliente",
-      tags: ["React", "Framer Motion", "Design"],
+      title: "Portfolio Professionale",
+      description: "Sito portfolio moderno e responsive realizzato con React, TypeScript e Tailwind CSS",
+      tags: ["React", "TypeScript", "Tailwind CSS"],
       image: "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800&h=600&fit=crop",
+    },
+    {
+      title: "Plugin Minecraft",
+      description: "Plugin personalizzati per server Minecraft con funzionalità avanzate e ottimizzazione prestazioni",
+      tags: ["Java", "Spigot", "Minecraft"],
+      image: "https://images.unsplash.com/photo-1628277613967-6abca504d0ac?w=800&h=600&fit=crop",
+    },
+    {
+      title: "Discord Bot",
+      description: "Bot Discord multi-funzione con comandi personalizzati, moderazione e integrazioni",
+      tags: ["Node.js", "Discord.js", "JavaScript"],
+      image: "https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w=800&h=600&fit=crop",
     },
   ];
 

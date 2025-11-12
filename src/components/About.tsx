@@ -5,18 +5,18 @@ const About = () => {
   const features = [
     {
       icon: Code2,
-      title: "Sviluppo",
-      description: "Creo applicazioni web moderne utilizzando le tecnologie più recenti",
+      title: "Web Development",
+      description: "Creo siti web moderni e tool personalizzati con Node.js e React",
     },
     {
       icon: Palette,
-      title: "Design",
-      description: "Progetto interfacce intuitive con focus su UX/UI",
+      title: "Plugin Minecraft",
+      description: "Sviluppo plugin personalizzati per server Minecraft con funzionalità uniche",
     },
     {
       icon: Rocket,
-      title: "Performance",
-      description: "Ottimizzazione per velocità e scalabilità",
+      title: "Discord Bot",
+      description: "Bot Discord avanzati con automazione e comandi personalizzati",
     },
   ];
 
@@ -30,8 +30,8 @@ const About = () => {
             </h2>
             <div className="w-20 h-1 bg-gradient-primary mx-auto mb-6" />
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              Sono un appassionato sviluppatore con esperienza nella creazione di soluzioni web innovative. 
-              Mi dedico a trasformare idee in realtà digitali di successo.
+              Sono un sviluppatore specializzato in Node.js, creazione di siti web, tool personalizzati, 
+              plugin Minecraft e Discord bot. Mi dedico a creare soluzioni uniche e funzionali.
             </p>
           </div>
 

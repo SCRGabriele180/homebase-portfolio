@@ -35,11 +35,11 @@ const Hero = () => {
           </h1>
           
           <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto">
-            Sviluppatore Web & Designer Creativo
+            Sviluppatore Web, Plugin Minecraft & Discord Bot
           </p>
           
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Creo esperienze digitali moderne e funzionali che uniscono design elegante e codice pulito
+            Creo siti web, tool personalizzati, plugin Minecraft e Discord bot con passione e competenza
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center pt-4">
