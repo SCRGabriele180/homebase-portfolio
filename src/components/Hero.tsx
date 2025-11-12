@@ -30,7 +30,7 @@ const Hero = () => {
           <h1 className="text-5xl md:text-7xl font-bold tracking-tight">
             Ciao, sono{" "}
             <span className="bg-gradient-primary bg-clip-text text-transparent">
-              Il Tuo Nome
+              Gabriele
             </span>
           </h1>
           
